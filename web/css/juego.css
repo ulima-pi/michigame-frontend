@@ -1,0 +1,21 @@
+.celda{
+    width: 100px;
+    height: 100px;
+    text-align: center;
+}
+.fila_superior {
+    border-bottom: black solid 2px;
+}
+.fila_centro{
+    border-bottom: black solid 2px;
+}
+.col_izq{
+    border-right: black solid 2px;
+}
+.col_centro{
+    border-right: black solid 2px;
+}
+
+#estado_esperando{
+    display: none;
+}
